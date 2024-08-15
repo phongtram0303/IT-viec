@@ -1,0 +1,276 @@
+{
+  "city": [
+    {
+      "key": 1,
+      "value": "Hà Nội",
+      "id": "70a4"
+    },
+    {
+      "key": 2,
+      "value": "TP-HCM",
+      "id": "b41a"
+    },
+    {
+      "key": 3,
+      "value": "Đà Nẵng",
+      "id": "1662"
+    }
+  ],
+  "tags": [
+    {
+      "key": 1,
+      "value": "HTML",
+      "id": "b0f3"
+    },
+    {
+      "key": 2,
+      "value": "Java-script",
+      "id": "deaf"
+    },
+    {
+      "key": 3,
+      "value": "Python",
+      "id": "0eca"
+    },
+    {
+      "key": 4,
+      "value": "C",
+      "id": "7026"
+    },
+    {
+      "key": 5,
+      "value": "React-js",
+      "id": "fb38"
+    },
+    {
+      "key": 6,
+      "value": "Node-js",
+      "id": "f852"
+    },
+    {
+      "key": 7,
+      "value": "Tester",
+      "id": "b377"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "idCompany": "1",
+      "name": "Intern Front-end Java",
+      "tags": [
+        "Java-script",
+        "C"
+      ],
+      "salary": "2500",
+      "description": "This position will have responsibility to develop Web application, Web API and more for our Fintech services, especially for Rakuten Card",
+      "status": true,
+      "createAt": "25-7-2024",
+      "city": [
+        "Hà Nội",
+        "TP-HCM"
+      ],
+      "updateAt": "01-08-2024 21:44:33"
+    },
+    {
+      "id": "2",
+      "idCompany": "2",
+      "name": "Fresher Python",
+      "tags": [
+        "Python",
+        "Node-js"
+      ],
+      "salary": "2000",
+      "description": "This position will have responsibility to develop Web application, Web API and more for our Fintech services, especially for Rakuten Card",
+      "status": true,
+      "createAt": "25-7-2024",
+      "city": [
+        "Đà Nẵng"
+      ],
+      "updateAt": "25-7-2024"
+    },
+    {
+      "id": "3",
+      "name": "Junior Back-end",
+      "tags": [
+        "HTML",
+        "Java-script",
+        "Node-js"
+      ],
+      "salary": "2000",
+      "city": [
+        "TP-HCM",
+        "Hà Nội",
+        "Đà Nẵng"
+      ],
+      "description": "Junior Back-end",
+      "status": true,
+      "idCompany": "1",
+      "createAt": "01-08-2024 17-28-38",
+      "updateAt": "02-08-2024 17:00:59"
+    },
+    {
+      "id": "fb21",
+      "name": "Intern Fullstack Web",
+      "tags": [
+        "HTML",
+        "React-js",
+        "Node-js",
+        "Java-script"
+      ],
+      "salary": "1000",
+      "city": [
+        "Hà Nội",
+        "TP-HCM"
+      ],
+      "description": "Intern Fullstack Web",
+      "status": true,
+      "idCompany": "1",
+      "createAt": "02-08-2024 17:12:50"
+    }
+  ],
+  "cv": [
+    {
+      "id": "1",
+      "idCompany": "1",
+      "idJob": "3",
+      "name": "Peter Parker",
+      "phone": "0123456789",
+      "email": "peter@gmail.com",
+      "statusRead": true,
+      "description": "Hello, I'm Peter Parker",
+      "linkProject": "",
+      "createAt": "25-7-2024",
+      "city": "Sóc Trăng"
+    },
+    {
+      "id": "2",
+      "idCompany": "1",
+      "idJob": "1",
+      "name": "Steve Roger",
+      "phone": "0345678123",
+      "email": "steve@gmail.com",
+      "statusRead": true,
+      "description": "Hello, I'm Steve Roger",
+      "linkProject": "",
+      "createAt": "25-7-2024",
+      "city": "TPHCM"
+    },
+    {
+      "id": "6d3e",
+      "name": "Tony Stark",
+      "phone": "0977977977",
+      "email": "stark@gmail.com",
+      "city": "Đà Nẵng",
+      "description": "I'm Iron Man",
+      "linkProject": "facebook.com",
+      "idJob": "1",
+      "idCompany": "1",
+      "createAt": "28-06-2024 11-06-38"
+    },
+    {
+      "id": "2680",
+      "name": "Tony",
+      "phone": "0323323323",
+      "email": "tony@gmail.com",
+      "city": "Hà Nội",
+      "description": "I'm Tony Stark",
+      "linkProject": "abc",
+      "idJob": "3",
+      "idCompany": "1",
+      "createAt": "02-08-2024 17:07:56",
+      "statusRead": true
+    },
+    {
+      "id": "3ff7",
+      "name": "Phong",
+      "phone": "0366336636",
+      "email": "phong@gmail.com",
+      "city": "Hà Nội",
+      "description": "Phong",
+      "linkProject": "abc",
+      "idJob": "fb21",
+      "idCompany": "1",
+      "createAt": "02-08-2024 17:13:26",
+      "statusRead": true
+    }
+  ],
+  "company": [
+    {
+      "id": "1",
+      "companyName": "Captain-IT",
+      "phone": "0121121454",
+      "email": "captain@gmail.com",
+      "password": "123456",
+      "token": "fwneknwe12rive",
+      "address": "Hà Nội",
+      "workingTime": "T2-T6",
+      "website": "http://captain.com",
+      "quantityPeople": "9",
+      "description": "Rakuten Fintech Vietnam Co., Ltd.Rakuten FinTech Vietnam (RFV), was newly established in October 2021 as the subsidiary company of Rakuten Card Co., Ltd., one of the biggest credit card companies in Japan.",
+      "detail": "Rakuten Fintech Vietnam Co., Ltd.Rakuten FinTech Vietnam (RFV), was newly established in October 2021 as the subsidiary company of Rakuten Card Co., Ltd., one of the biggest credit card companies in Japan.Rakuten Fintech Vietnam Co., Ltd.Rakuten FinTech Vietnam (RFV), was newly established in October 2021 as the subsidiary company of Rakuten Card Co., Ltd., one of the biggest credit card companies in Japan.\nRakuten Fintech Vietnam Co., Ltd.Rakuten FinTech Vietnam (RFV), was newly established in October 2021 as the subsidiary company of Rakuten Card Co., Ltd., one of the biggest credit card companies in Japan."
+    },
+    {
+      "id": "2",
+      "companyName": "Iron-IT",
+      "phone": "0343456234",
+      "email": "iron@gmail.com",
+      "password": "123456",
+      "token": "wevwmevweoev812",
+      "address": "TPHCM",
+      "workingTime": "T2-T6",
+      "website": "",
+      "quantityPeople": 10,
+      "description": "Rakuten Fintech Vietnam Co., Ltd.Rakuten FinTech Vietnam (RFV), was newly established in October 2021 as the subsidiary company of Rakuten Card Co., Ltd., one of the biggest credit card companies in Japan.",
+      "detail": "Rakuten Fintech Vietnam Co., Ltd.Rakuten FinTech Vietnam (RFV), was newly established in October 2021 as the subsidiary company of Rakuten Card Co., Ltd., one of the biggest credit card companies in Japan."
+    },
+    {
+      "id": "a6e8",
+      "companyName": "Deadpool-IT",
+      "email": "deadpool@gmail.com",
+      "phone": "0123321123",
+      "password": "1234",
+      "token": "YP2s9dtosdDx101eNdPA"
+    },
+    {
+      "id": "1862",
+      "companyName": "Hulk-IT",
+      "email": "hulk@gmail.com",
+      "phone": "0999123123",
+      "password": "1234",
+      "token": "0DVvkskiwjN0gnK9LTeA"
+    },
+    {
+      "id": "cb6c",
+      "companyName": "Thor-IT",
+      "email": "thor@gmail.com",
+      "phone": "003149537",
+      "password": "1234",
+      "token": "hE6P77tt4XQzUav04QGx"
+    },
+    {
+      "id": "fbdd",
+      "companyName": "BlackWidow-IT",
+      "email": "widow@gmail.com",
+      "phone": "03333444555",
+      "password": "1234",
+      "token": "UQYnRBm5Lu2XL4iZAFPk"
+    },
+    {
+      "id": "f921",
+      "companyName": "Hawkeye-IT",
+      "email": "hawkeye@gmail.com",
+      "phone": "0321123321",
+      "password": "1234",
+      "token": "y7gTh0eVFTmKD6Ld5KV6"
+    },
+    {
+      "id": "9bbf",
+      "companyName": "Wolverin-IT",
+      "email": "wolverin@gmail.com",
+      "phone": "0747747747",
+      "password": "1234",
+      "token": "9YDZLnnZPI1jNUKhdkI7"
+    }
+  ]
+}
